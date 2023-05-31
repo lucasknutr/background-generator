@@ -6,19 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gradient Background Generator</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
 </head>
 <body id="gradient">
     <h1>Background Generator</h1>
     <div class="side-selectors">
         <button id="left" class="button">to left</button>
-        <button id="right" class="button">to right</button>
+        <button id="right" class="button">to right<br>
+        (default)</button>
     </div>
     <div class="color-selectors">
     <input type="color" name="color1" id="color1" value="#20B3E1">
     <input type="color" name="color2" id="color2" value="#57E389">
     </div>
     <h2>Current CSS Background</h2>
-    <h3></h3>
+    <code id="css-input"></code>
     <script src="script.js"></script>
 </body>
 </html>

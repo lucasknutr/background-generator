@@ -14,6 +14,8 @@ h1 {
     font-size: 5em;
     text-transform: uppercase;
     padding-bottom: 0;
+    font-family: 'Alfa Slab One', cursive;
+    -webkit-text-stroke: 5px black;
 }
 
 .color-selectors {
@@ -29,9 +31,11 @@ h1 {
 }
 
 .button {
-    padding: 2em 10em;
+    padding: 5em;
     text-transform: uppercase;
     font-weight: 900;
     font-size: 1rem;
     border: 2px black solid;
+    border-radius: 100%;
 }
+
