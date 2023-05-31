@@ -1,5 +1,7 @@
 # CSS Linear Gradient Background Generator
 
+# PREVIEW: https://lucasknutr.github.io/background-generator/
+
 The CSS Linear Gradient Background Generator is a user-friendly tool that allows you to create stunning linear gradient backgrounds for your web projects. With this generator, you can visually customize the gradient by choosing the colors, angles, and stops, and it will provide you with the CSS code snippet to easily implement the gradient background in your CSS file. Whether you're a beginner or an experienced developer, this tool simplifies the process of creating beautiful gradients, adding a touch of elegance to your website designs.
 
 # Features:
